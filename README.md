@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction
 
 This repository holds NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch.
@@ -185,3 +186,7 @@ If a requirement of a module is not met, then it will not be built.
 |  `nccl_p2p_cuda`  |  `--nccl_p2p`  | Requires NCCL >= 2.10, [`apex.contrib.nccl_p2p`](./apex/contrib/nccl_p2p)  |
 |  `fast_bottleneck`  |  `--fast_bottleneck`  |  Requires `peer_memory_cuda` and `nccl_p2p_cuda`, [`apex.contrib.bottleneck`](./apex/contrib/bottleneck) |
 |  `fused_conv_bias_relu`  |  `--fused_conv_bias_relu`  | Requires cuDNN>=8.4, [`apex.contrib.conv_bias_relu`](./apex/contrib/conv_bias_relu) |
+=======
+# apex
+amp
+>>>>>>> a17661afaceff1fac23e8fea227b12e0ca83d98d
